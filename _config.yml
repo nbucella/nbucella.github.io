@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "contrast" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Nicolò Personal Website"
+title                    : "Nicolò Bucella"
 title_separator          : "-"
 name                     : &name "Nicolò Bucella"
 description              : &description "Documenting my technical evolution through code, data, and digital philosophy."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Nicolò"
   bio              : "Data scientist"
-  location         : "Italy"
+  location         : "Rome, Italy"
   employer         : "Available"
   email            : "none@example.org" 
 
